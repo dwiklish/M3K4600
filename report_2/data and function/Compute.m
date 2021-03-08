@@ -1,9 +1,9 @@
-addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/run1')
-addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/run2')
-addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/run3')
-addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/run6')
-addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/Gauge data repeat')
-addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/data and function')
+addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/report_2/run1')
+addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/report_2/run2')
+addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/report_2/run3')
+addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/report_2/run6')
+addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/report_2/Gauge data repeat')
+addpath('/Users/kadekjensen/OneDrive - Universitetet i Oslo/Documents/UIO_kadek/Master/MEK 4600/Report 2/M3K4600/report_2/data and function')
 calneg4 = load('calibneg4.csv');
 calneg2 = load('calibneg2.csv');
 cal0 = load('calib0.csv');
